@@ -47,3 +47,8 @@ docker compose is a script for defining and running multiple containers.
 - docker-compose build - build containers
 - docker-compose up -d - run all containers but don't show any log
 - docker logs CONTAINER_ID - look the log of the container
+
+### docker compose version
+- version 1 (deprecated)
+- version 2 
+- version 3
